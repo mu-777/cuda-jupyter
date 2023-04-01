@@ -1,0 +1,17 @@
+jupyter
+jupyterlab
+jupyterlab_code_formatter
+jupyterlab-git
+numpy
+pandas
+matplotlib
+scikit-learn
+scikit-image
+scipy
+torch
+torchvision
+tqdm
+albumentations
+Pillow
+opencv-python
+requests
